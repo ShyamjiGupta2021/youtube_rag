@@ -1,0 +1,12 @@
+dotenv
+langchain
+langchain-ollama
+pypdf 
+langgraph
+langchain-community
+langchain-huggingface
+langchain-chroma
+youtube-transcript-api
+duckduckgo-search
+transformers
+torch
